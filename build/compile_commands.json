@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/thiago-fedora/Documentos/Learning/OpenGL/build",
+  "command": "/usr/lib64/ccache/g++   -g -o CMakeFiles/my_opengl.dir/src/main.cpp.o -c /home/thiago-fedora/Documentos/Learning/OpenGL/src/main.cpp",
+  "file": "/home/thiago-fedora/Documentos/Learning/OpenGL/src/main.cpp",
+  "output": "CMakeFiles/my_opengl.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/thiago-fedora/Documentos/Learning/OpenGL/build",
+  "command": "/usr/lib64/ccache/gcc   -g -o CMakeFiles/my_opengl.dir/src/glad.c.o -c /home/thiago-fedora/Documentos/Learning/OpenGL/src/glad.c",
+  "file": "/home/thiago-fedora/Documentos/Learning/OpenGL/src/glad.c",
+  "output": "CMakeFiles/my_opengl.dir/src/glad.c.o"
+}
+]

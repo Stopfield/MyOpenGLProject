@@ -1,0 +1,3 @@
+/home/thiago-fedora/Documentos/Learning/OpenGL/build/CMakeFiles/my_opengl.dir
+/home/thiago-fedora/Documentos/Learning/OpenGL/build/CMakeFiles/edit_cache.dir
+/home/thiago-fedora/Documentos/Learning/OpenGL/build/CMakeFiles/rebuild_cache.dir
